@@ -59,7 +59,7 @@
 65C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\mdn-data133043623673245106 1
 80C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\terser\lib\sourcemap.js133044207667082025 0
 71C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\lodash\util.js133044196503335772 0
-48C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist133045249872291614 1
+48C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist133046160523285164 1
 74C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\type-fest\license133043623637532875 0
 54C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\.gitignore133045202421064062 0
 95C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-sel3.js133044207666271847 0
@@ -80,7 +80,7 @@
 105C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\html-media-capture.js133044207673025857 0
 76C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\lodash\fp\commit.js133044196497104365 0
 103C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@swc\helpers\src\_class_private_field_init.mjs133044207660262538 0
-65C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\src\js\03-feedback.js133045204518680456 0
+65C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\src\js\03-feedback.js133046160522144896 0
 88C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\fast-glob\out\readers\reader.js133043623667588853 0
 105C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\element-from-point.js133044207669074100 0
 98C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\typedarrays.js133044207720762324 0
@@ -108,7 +108,7 @@
 73C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\posthtml-include133043623642967463 1
 73C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\lmdb\binding.gyp133044207661112730 0
 81C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\abortcontroller-polyfill133043623661207413 1
-76C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\01-gallery.101ee4ef.css.map133045204077585364 0
+76C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\01-gallery.101ee4ef.css.map133045294473488131 0
 76C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\lodash\wrapperAt.js133044196503515814 0
 83C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\caniuse-lite\dist\unpacker133044207713970875 1
 61C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\package-lock.json133045202421254106 0
@@ -147,7 +147,7 @@
 72C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\lodash\value.js133044196503355774 0
 73C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\error-ex\LICENSE133043623641197033 0
 93C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\simplelightbox\demo\img\thumb\03.jpg133043623995632070 0
-61C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\src\02-video.html133045249871371407 0
+61C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\src\02-video.html133045250843478966 0
 101C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@parcel\workers\src\process\ProcessWorker.js133044207662971087 0
 72C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\lodash\range.js133044196501445349 0
 77C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\terser\lib\minify.js133044207664771496 0
@@ -495,7 +495,7 @@
 93C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\.circleci133043623702720978 1
 86C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\domelementtype\lib\index.d.ts133043623656221451 0
 83C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\svgo\plugins\reusePaths.js133043623704433182 0
-77C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map133045204077775401 0
+77C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map133045294473328096 0
 73C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\lodash\padEnd.js133044196501045253 0
 99C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\utility-types\dist\functional-helpers.d.ts133043623663727993 0
 105C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\permissions-policy.js133044207709016798 0
@@ -1832,7 +1832,7 @@
 79C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\lodash\_basePullAll.js133044196494263725 0
 113C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\files\file1.txt133043623674405367 0
 88C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\posthtml-parser\dist\index.d.ts133043623653156160 0
-78C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\goit-js-hw-08.59712999.js.map133045204077815421 0
+78C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\goit-js-hw-08.59712999.js.map133045294473538142 0
 81C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\postcss-value-parser\lib133043623653646277 1
 80C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\mdn-data\css\types.json133043623670529523 0
 105C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@parcel\transformer-babel\lib\babelErrorUtils.js133044207671103587 0
@@ -2018,7 +2018,7 @@
 129C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files\embed\file2.txt133043623683563003 0
 77C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\lodash\fp\orderBy.js133044196500915223 0
 98C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\csso\lib\restructure\8-restructRuleset.js133043623653426227 0
-59C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\index.html133045204077435342 0
+59C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\index.html133045286042868750 0
 120C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3\package.json133043623668449042 0
 114C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c133044207660482589 0
 83C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\color-convert\package.json133043623638796498 0
@@ -2947,7 +2947,7 @@
 89C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\lmdb\node_modules\node-addon-api133044207943309290 1
 75C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\lodash\_hashSet.js133044196495594021 0
 82C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\lodash\_initCloneArray.js133044196495704052 0
-74C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\goit-js-hw-08.59712999.js133045204077755405 0
+74C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\goit-js-hw-08.59712999.js133045294473488131 0
 79C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\lodash\_stackDelete.js133044196496314188 0
 82C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\lodash\_isIterateeCall.js133044196495774062 0
 74C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\lodash\fp\over.js133044196500925225 0
@@ -3885,7 +3885,7 @@
 98C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\electron-to-chromium\chromium-versions.js133044207658480882 0
 94C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\electron-to-chromium\full-versions.js133044207658720940 0
 85C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\electron-to-chromium\LICENSE133044207658440885 0
-64C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\01-gallery.html133045204077785403 0
+64C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\01-gallery.html133045294473538142 0
 90C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\electron-to-chromium\package.json133044207658950998 0
 89C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\electron-to-chromium\versions.js133044207658790965 0
 91C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\electron-to-chromium\versions.json133044207658960993 0
@@ -4260,7 +4260,7 @@
 82C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\chalk\source\templates.js133043623641547111 0
 108C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-media-interaction.js133044207665651704 0
 102C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\payment-request.js133044207708236590 0
-72C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\01-gallery.7d68834f.css133045204077305305 0
+72C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\01-gallery.7d68834f.css133045294473278081 0
 77C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\chalk\source\util.js133043623644367768 0
 109C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\link-rel-modulepreload.js133044207675427426 0
 74C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data133044207669739303 1
@@ -4496,7 +4496,7 @@
 98C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-lch-lab.js133044207665481655 0
 121C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@parcel\workers\test\integration\workerfarm\master-process-id.js133044207662771055 0
 105C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-letter-spacing.js133044207665531683 0
-75C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\01-gallery.53390864.js.map133045204077945447 0
+75C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\01-gallery.53390864.js.map133045294473388119 0
 101C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-line-clamp.js133044207665561687 0
 99C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@parcel\packager-js\src\ESMOutputFormat.js133044207693650692 0
 104C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-logical-props.js133044207665571687 0
@@ -4838,7 +4838,7 @@
 96C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@swc\helpers\src\_iterable_to_array.mjs133044207660742648 0
 108C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@swc\helpers\src\_iterable_to_array_limit_loose.mjs133044207660762638 0
 94C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@swc\helpers\src\_new_arrow_check.mjs133044207660792660 0
-72C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\03-feedback.5440b4f4.js133045204512689292 0
+72C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\03-feedback.5440b4f4.js133046160523235149 0
 98C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@swc\helpers\src\_non_iterable_spread.mjs133044207660812649 0
 98C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@swc\helpers\src\_object_spread_props.mjs133044207660882674 0
 85C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@parcel\cache\lib\FSCache.js133044207732675123 0
@@ -4903,7 +4903,7 @@
 103C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_object_without_properties.js133044207659506434 0
 93C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_read_only_error.js133044207659526423 0
 81C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_set.js133044207659546432 0
-72C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\01-gallery.101ee4ef.css133045204077555349 0
+72C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\01-gallery.101ee4ef.css133045294473418124 0
 94C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_set_prototype_of.js133044207659546432 0
 93C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_sliced_to_array.js133044207659566441 0
 99C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_sliced_to_array_loose.js133044207659582386 0
@@ -5829,14 +5829,14 @@
 68C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\.bin\terser133044207944199524 0
 72C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\.bin\terser.cmd133044207944189524 0
 72C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\node_modules\.bin\terser.ps1133044207944189524 0
-71C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\01-gallery.53390864.js133045204077785403 0
-76C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\01-gallery.7d68834f.css.map133045204077325315 0
-69C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\02-video.a74b541c.js133045204077745395 0
-73C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\02-video.a74b541c.js.map133045204077815421 0
-62C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\02-video.html133045249872281609 0
-76C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133045204512699291 0
-73C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\03-feedback.ba2d0753.css133045204077725390 0
-65C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\03-feedback.html133045204077435342 0
+71C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\01-gallery.53390864.js133045294473358101 0
+76C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\01-gallery.7d68834f.css.map133045294473328096 0
+69C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\02-video.a74b541c.js133045294473488131 0
+73C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\02-video.a74b541c.js.map133045294473548144 0
+62C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\02-video.html133045294473238081 0
+76C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133046160523265156 0
+73C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\03-feedback.ba2d0753.css133045294473278081 0
+65C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\dist\03-feedback.html133045294473228072 0
 76C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\assets\actions-config-step-1.png133045202421154085 0
 76C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\assets\actions-config-step-2.png133045202421174090 0
 67C:\Users\shvet\Desktop\GitHub\goit-js-hw-08\assets\how-it-works.png133045202421204103 0
